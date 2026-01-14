@@ -1,4 +1,4 @@
-const CACHE_NAME = 'Marina_shopping-list Pro-v1';
+const CACHE_NAME = 'Marina_shopping_list_Pro-v1';
 // Список файлов для кэширования
 const ASSETS = [
   './',
