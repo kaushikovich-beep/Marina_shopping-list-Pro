@@ -3,7 +3,7 @@ const CACHE_NAME = 'Marina_shopping_list_Pro-v1';
 const ASSETS = [
   './',
   './index.html',
-  './icon.png',
+  './Marina.png',
   './manifest.json'
 ];
 
