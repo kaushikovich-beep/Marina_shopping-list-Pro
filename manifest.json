@@ -1,0 +1,15 @@
+{
+  "name": "Marina_shopping-list Pro",
+  "short_name": "Marina",
+  "start_url": "/Marina_shopping-list Pro/",
+  "display": "standalone",
+  "background_color": "#0f0c29",
+  "theme_color": "#ffd700",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
